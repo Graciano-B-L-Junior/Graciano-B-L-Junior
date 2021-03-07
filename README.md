@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, me chamo Graciano Junior, sou estudante universitário, atualmente cursando Sistemas e mídias digitais (7º semestre) da Universidade Federal do Ceará, atualmente faço cursos online para me especializar em programação.
+
+#### Atualmente estou participando do bootcamp MRV .Net developer da Digital Innovation One, prazo de conclusão para 23/04/2021
+
+#### Meu principais objetivos atuais e conseguir um estágio na área do programação para melhorar minha habilidades tecnicas e pessoais, e melhorar minhas habilidades como game developer (atualmente frequentando o curso online Unity learn junior programmer em inglês)
 
 <!--
 **Graciano-B-L-Junior/Graciano-B-L-Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
