@@ -1,4 +1,4 @@
-### Olá, me chamo Graciano Junior, sou estudante universitário, atualmente cursando Sistemas e mídias digitais da Universidade Federal do Ceará, atualmente faço cursos online para me especializar em programação.
+### Olá, me chamo Graciano Junior, bacharel em sistemas e mídias digitais pela Universidade Federal do Ceará,atualmente faço cursos online para e uso a literatura técnica para me especializar em programação.
 
 
 #### Meu principais objetivos atuais são melhorar minhas habilidades tecnicas e pessoais, e minhas habilidades como game developer
