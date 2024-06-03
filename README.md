@@ -1,7 +1,4 @@
-### Olá, me chamo Graciano Junior, bacharel em sistemas e mídias digitais pela Universidade Federal do Ceará,atualmente faço cursos online para e uso a literatura técnica para me especializar em programação.
-
-
-#### Meu principais objetivos atuais são melhorar minhas habilidades tecnicas e pessoais, e minhas habilidades como game developer
+### Olá, me chamo Graciano Junior, Desenvolvedor fullstack, bacharel em sistemas e mídias digitais pela Universidade Federal do Ceará.
 
 <!--
 **Graciano-B-L-Junior/Graciano-B-L-Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
