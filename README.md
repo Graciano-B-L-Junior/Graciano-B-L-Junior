@@ -1,4 +1,4 @@
-### Olá, me chamo Graciano Junior, Desenvolvedor fullstack,Profissional AWS certificado, Bacharel em Sistemas e Mídias digitais pela Universidade Federal do Ceará.
+### Olá, me chamo Graciano Junior, Desenvolvedor fullstack, Profissional AWS certificado, Bacharel em Sistemas e Mídias digitais pela Universidade Federal do Ceará.
 
 <!--
 **Graciano-B-L-Junior/Graciano-B-L-Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
