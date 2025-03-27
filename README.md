@@ -1,4 +1,4 @@
-### Hi, my name is Graciano Junior, Full stack developer, AWS certified professional, Bachelor's Degree in Digital Systems and Media from the Federal University of Ceará.
+### Hi, I'm Graciano Junior, Full stack developer, AWS certified professional, Bachelor's Degree in Digital Systems and Media from the Federal University of Ceará.
 
 ### Olá, me chamo Graciano Junior, Desenvolvedor fullstack, Profissional AWS certificado, Bacharel em Sistemas e Mídias digitais pela Universidade Federal do Ceará.
 
